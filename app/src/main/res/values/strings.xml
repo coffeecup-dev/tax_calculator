@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tax Calculator</string>
+    <string-array name="spinner_year">
+        <item>2015-2016</item>
+        <item>2017-2018</item>
+        <item>2019-2020</item>
+        <item>2020-2021</item>
+    </string-array>
+</resources>
